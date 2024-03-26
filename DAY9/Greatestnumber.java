@@ -1,4 +1,3 @@
-
 /*Kalpana a third class student is playing with numbers. 
 She has given her brother the same set of numbers and asked him to find the 
 next greatest nearest number which contains the same set of digits same number of times. 
@@ -14,7 +13,7 @@ output = -1
 
 input = 456
 output = 465*/
-
+package DAY9;
 import java.util.*;
 
 public class Greatestnumber 
